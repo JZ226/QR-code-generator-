@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(37, 37, 44);
+}
+.container{
+    width: 400px;
+    max-width: 1000px;
+   margin-left: 75cap;
+margin-top: 35dvh;
+    background-color: azure;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+}
+.container input{
+    width: 90%;
+    height: 26px;
+}
+.button button{
+    margin-top: 25px;
+    height: 33px;
+    width: 65%;
+    font-size: 20px;
+    background-color: rgb(209, 120, 120);
+    color: aliceblue;
+    margin-bottom: 50px
+}
+.imgbox{
+    margin-top: 10px;
+}
+.error{
+    display: none;
+}
